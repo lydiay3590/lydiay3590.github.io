@@ -55,6 +55,7 @@ p {
 
 .card-title {
     font-weight: 700;
+    color: rgb(193,177,199) /* Purple */
 }
 
 .bg-3 {
@@ -85,3 +86,26 @@ p {
 .navbar-nav li a:hover {
     color: rgb(193,177,199) !important;
 }
+
+.title {
+    color: rgb(193,177,199); /* Purple */
+}
+
+.subtitles {
+    color: #000000; /* Black */
+    font-size: 24px;
+}
+
+.reflection {
+    font-size: 16px;
+}
+
+.links {
+    color: #000000;
+}
+
+.links:hover {
+    color: rgb(193,177,199);
+    text-decoration: none;
+}
+
