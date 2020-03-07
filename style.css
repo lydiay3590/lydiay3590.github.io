@@ -100,12 +100,29 @@ p {
     font-size: 16px;
 }
 
+.img-title {
+    font-size: 20px;
+}
+
 .links {
     color: #000000;
+    font-size: 16px;
 }
 
 .links:hover {
     color: rgb(193,177,199);
     text-decoration: none;
 }
+
+.location-img {
+    width: 100%;
+}
+
+.location-position {
+    float: left;
+    width: 49.99%;
+    padding: 10px;
+}
+
+
 
