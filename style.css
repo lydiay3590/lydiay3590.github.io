@@ -12,8 +12,12 @@ p {
     font-size: 16px;
 }
 
-a {
-    color: #2e72a1;
+.card-link {
+    color: #000000; /* Black */
+}
+
+.card-link:hover {
+    color: rgb(193,177,199);
 }
 
 #logo, .project-img {
@@ -40,7 +44,7 @@ a {
 }
 
 .bg-2 {
-    background-color: #2e72a1; /* Blue */
+    background-color: rgb(193,177,199); /* Purple */
     color: #ffffff;
 }
 
@@ -79,5 +83,5 @@ a {
 }
 
 .navbar-nav li a:hover {
-    color: #2e72a1 !important;
+    color: rgb(193,177,199) !important;
 }
